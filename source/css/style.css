@@ -323,12 +323,7 @@ button {
     margin-bottom: 60px;
   }
 }
-@media (max-width: 620px) {
-  .concept {
-    padding-top: 30px;
-    margin-bottom: 30px;
-  }
-}
+
 .concept__inner {
   max-width: 900px;
   margin-left: auto;
