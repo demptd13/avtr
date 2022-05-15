@@ -157,7 +157,7 @@ button {
 }
 @media (max-width: 620px) {
   .header__top {
-    padding: 0;
+    padding: 0 10px;
   }
 }
 .header__content {
