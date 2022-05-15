@@ -112,6 +112,9 @@ button {
     display: block;
   }
 }
+.header__nav-img {
+  padding: 10px 10px 10px 0;
+}
 .header__list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -286,7 +289,7 @@ button {
 }
 @media (max-width: 620px) {
   .nav-menu {
-    padding: 10px 0 10px 0;
+    padding: 10px 0 10px 10px;
   }
 }
 .nav-menu_show {
